@@ -1,8 +1,7 @@
 ---
 title: Hello World 
 date: 2024-07-06 00:00:00 +0530
-categories: [Blogging]
-tags: [writing]
+categories: [Articles]
 description: parampara pratishtha anushasan :) 
 ---
 
